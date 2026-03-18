@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Birthday",
+  "base_artist": "奥華子",
+  "createdAt": "2026-03-18T14:57:23.959016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Birthday Girl",
+      "artist": "The Roots feat. Patrick Stump",
+      "has_synced": true,
+      "path": "select/01_Birthday_Girl_The_Roots_feat._Patrick_Stump.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ratchet Happy Birthday",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Ratchet_Happy_Birthday_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daddy's Birthday",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/03_Daddy's_Birthday_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Not Your Birthday Anymore",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/04_It's_Not_Your_Birthday_Anymore_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunday (The Day Before My Birthday)",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/05_Sunday_(The_Day_Before_My_Birthday)_Moby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunday (The Day Before My Birthday)",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/06_Sunday_(The_Day_Before_My_Birthday)_Moby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Birthday",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/07_Birthday_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Birthday",
+      "artist": "The Idle Race",
+      "has_synced": true,
+      "path": "select/08_The_Birthday_The_Idle_Race.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Happy Birthday Blues",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/09_Happy_Birthday_Blues_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Birthday",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/10_Birthday_Blur.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happy Birthday",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/11_Happy_Birthday_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Johnny's Birthday (Remastered 2020)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/12_It's_Johnny's_Birthday_(Remastered_2020)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Johnny's Birthday (2020 Remaster)",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/13_It's_Johnny's_Birthday_(2020_Remaster)_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Johnny's Birthday (Session Outtakes And Jams / Take 1)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/14_It's_Johnny's_Birthday_(Session_Outtakes_And_Jams___Take_1)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Johnny's Birthday (Take 1)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/15_It's_Johnny's_Birthday_(Take_1)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Birthday / The Pain",
+      "artist": "For Those I Love",
+      "has_synced": false,
+      "path": "select/16_Birthday___The_Pain_For_Those_I_Love.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Birthday Carol",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/17_Birthday_Carol_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "birthday",
+      "artist": "twikipedia",
+      "has_synced": true,
+      "path": "select/18_birthday_twikipedia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Birthday",
+      "artist": "奥 華子",
+      "has_synced": false,
+      "path": "select/pl_01_Birthday_奥_華子.txt"
+    }
+  ]
+}
